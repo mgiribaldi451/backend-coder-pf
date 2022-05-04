@@ -193,7 +193,7 @@ Se indica el id el carrito del que queremos sacar el producto y el id y se elimi
 <p>$ git commit -am "make it better" </p>
 <p>$ git push heroku master </p>
 
-URL: https://coder-backend-pf.herokuapp.com/
+URL: https://backend-coder-pf.herokuapp.com/
 
 Postman: https://coder-backend-pf.herokuapp.com/api/productos
         https://coder-backend-pf.herokuapp.com/api/carritos
