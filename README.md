@@ -8,7 +8,7 @@ Se utiliza mediante Postman , luego tendra usabilidad el frontend.
 ## Comenzando
 <p>
  Clonar el repositorio:
-- git clone https://github.com/mgiribaldi451/backendPF
+- git clone https://github.com/mgiribaldi451/backend-coder-pf
 
 Tambien se puede descargar desde el navegador.
 Una vez clonado se deben instalar las dependencias e iniciar el servidor.
@@ -191,9 +191,9 @@ Se indica el id el carrito del que queremos sacar el producto y el id y se elimi
 <p> $ heroku login </p>
 <p>$ git add . </p>
 <p>$ git commit -am "make it better" </p>
-<p>$ git push heroku master </p>
+<p>$ git push heroku main </p>
 
 URL: https://backend-coder-pf.herokuapp.com/
 
-Postman: https://coder-backend-pf.herokuapp.com/api/productos
-        https://coder-backend-pf.herokuapp.com/api/carritos
+Postman: https://backend-coder-pf.herokuapp.com/api/productos
+        https://backend-coder-pf.herokuapp.com//api/carritos
